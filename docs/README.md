@@ -121,7 +121,7 @@ For Community charts only (partners should follow process above), submit the _OW
 charts/community/acme/awesome/OWNERS
 ```
 
-Alternatively, for charts that represent a product supported by Red Hat, submit the _OWNERS_ file PR towards `main` branch under the charts/redhat directory within your orgranization directory. For example, for a Red Hat chart named awesome, send it here:
+Alternatively, for charts that represent a product supported by Red Hat, submit the _OWNERS_ file PR towards `main` branch under the charts/redhat directory within your orgranization directory.This PR also should be sent prior to sending any charts to the repo. For example, for a Red Hat chart named awesome, send it here:
 
 ```
 charts/redhat/redhat/awesome/OWNERS
